@@ -4,7 +4,9 @@
 
 <p align="center"> Chip / Spacey | 17 | 3d modeler + artist
 
-(<p align="center"> [Toyhouse](https://toyhou.se/Cacklenaut)   ----    [Artfight](https://artfight.net/~Hellipede) 
+‎ <p align="center"> ![](https://komarev.com/ghpvc/?username=Cacklenaut&label=Jesters&color=f20779)
+
+‎ <p align="center"> [Toyhouse](https://toyhou.se/Cacklenaut)   ----    [Artfight](https://artfight.net/~Hellipede) 
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
