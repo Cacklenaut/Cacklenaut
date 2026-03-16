@@ -6,7 +6,7 @@
 
 ‎ <p align="center"> ![](https://komarev.com/ghpvc/?username=Cacklenaut&label=Jesters&color=f20779)
 
-   ‎ <p align="center"         https://magma.com/d/G9YVUT5O8K
+     ‎  <p align="center"         https://magma.com/d/G9YVUT5O8K
      
 ‎ <p align="center"> [Toyhouse](https://toyhou.se/Cacklenaut)   ----    [Artfight](https://artfight.net/~Cacklenaut) 
 
